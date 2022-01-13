@@ -1,0 +1,10 @@
+This is a AMR  scan of JH253-Py Ta(8)/Py(4)/SiOx(2).  Full stack is sputtered by Jason Hsu at 2mTorr.   Current algined to the RIGHT coil. Device E6 (double small Hall bar) Combo mask v2
+
+Field: 900 - 100 mT  (20 steps)
+Current: 3, 2.5, 2, 1.5, 1mA
+angle stepsize: 9 deg
+Wait time: 1s
+AC Gain:  12 dB
+Complaince:  6V 
+DAQ_V: 1 V at  3mA
+Input FET: FET

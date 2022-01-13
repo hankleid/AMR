@@ -1,0 +1,10 @@
+This is a AMR/UMR scan of JH167 Pt(8)/Py(4).  Full stack is sputtered by Jason Hsu at 2mTorr.   Current algined to the RIGHT coil. Device F2 (double large Hall bar) Combo mask v1
+
+Field: 900 - 100 mT  (20 steps)
+Current: 8, 7, 6, 5, 4 mA
+angle stepsize: 9 deg
+Wait time: 1s
+AC Gain:  12dB
+Complaince:  5V 
+DAQ_V: 0.3 V at  8mA
+Input FET: FET

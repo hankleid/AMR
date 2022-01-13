@@ -1,0 +1,6 @@
+Quick in-plane harmonic MR measurement to look at USMR. This is device D5 the large double Hall bar device.
+
+Current: 1mA
+Field: 100mT to 900mT (20 steps)
+Stepsize: 4.5deg
+Wait time 1s
